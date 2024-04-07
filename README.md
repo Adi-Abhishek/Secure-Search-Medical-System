@@ -10,6 +10,9 @@ This project enables secure and authorized search functionalities for medical da
 - **Efficient Search Algorithms**: Utilizes efficient algorithms for quick retrieval of relevant medical records while maintaining privacy.
 - **Audit Trail**: Logs all access to medical records for auditing purposes, ensuring accountability.
 
+## Abstract
+This project is based on the abstract "Enabling authorized encrypted search for multi-authority medical databases." It addresses the need for secure and efficient search functionalities in medical databases, particularly across multiple authorities. By implementing encrypted search techniques and a multi-authority setup, the system ensures that sensitive medical information remains protected while allowing authorized users to access relevant data securely.
+
 ## Technologies Used
 - **Encryption**: Utilizes advanced encryption techniques such as homomorphic encryption or searchable encryption to protect medical data.
 - **Distributed Systems**: Implements distributed systems principles for fault tolerance and scalability.
