@@ -24,6 +24,10 @@ This project is based on the abstract "Enabling authorized encrypted search for 
 - **Database**: Compatible with MySQL 5.0.
 - **JDK**: Requires JDK 7.
 
+## Installing Guide:
+- **Installing Tomcat Server**
+    - We have to run Server in browser using the command: (localhost:2020), where 2020 is the port no acquired for server
+
 ## Usage
 1. **Setup**: Clone the repository and install dependencies.
 2. **Configuration**: Configure system parameters including encryption keys, access control policies, and database connections.
